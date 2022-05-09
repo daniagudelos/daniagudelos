@@ -20,8 +20,10 @@ be fun. You will see content about:
 ## Always learning!
 
 Currently:
-- Spring framework
-- Hibernate
+- Gradle: plugins, tasks
+- Kotlin
+- Docker
+- Debian Packages
 - Oil painting
 
 ## :round_pushpin: Find me on: 
