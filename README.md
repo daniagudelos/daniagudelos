@@ -10,14 +10,9 @@ I am an engineer in love with design patterns and good coding practices.
 
 :mag_right: I worked on the [MEMAP project](https://github.com/SES-fortiss/SmartGridCoSimulation). We created a tool to optimize non-used energy potentials in a network of buildings, saving money and reducing Co2 emissions.
 
-:bulb: I would like to share with you some of the projects I have made over the
-last few years. It will take some time, so: patience. But, bear with me. It will
-be fun. You will see content about:
-- Vim
-- Git
-- Java
+:computer: My website is up! I use this space to share a bit of who I am. The technical and non-technical parts of me. Check it out at [https://daniagudelos.github.io/](https://daniagudelos.github.io/)
 
-I am currently working on a website. Stay tuned! 
+:bulb: The idea is to make more posts about what I learn. It will take some time, so be patient. Bear with me. It will be fun.
 
 ## Always learning!
 
@@ -26,10 +21,10 @@ Currently:
 - Kotlin
 - Docker
 - Debian Packages
-- Oil painting
+- Painting
 
 ## :round_pushpin: Find me on: 
-- :bird: Twitter: [@daniagudelos](https://twitter.com/daniagudelos)
+- :bird: X/Twitter: [@daniagudelos](https://twitter.com/daniagudelos)
 - :briefcase: LinkedIn: [saitelagudelo](https://www.linkedin.com/in/saitelagudelo/)
 
 ## Write me at:
